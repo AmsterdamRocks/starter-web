@@ -10,4 +10,9 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+Need some directions here
+
+
 ## Deployment
+
+Need some directions here
